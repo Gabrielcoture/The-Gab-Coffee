@@ -35,7 +35,7 @@ const menu = [
     title: "Caeser de frango",
     category: "lunch",
     price: 32.99,
-    img: "./images/caeser.jpg",
+    img: "./images/caesar.jpg",
     desc: `tiras de frango grelhadas, mix de folhas verdes, croutons, ovo, parmesão e molho especial da casa. Uma verdadeira perdição. `,
   },
   {
