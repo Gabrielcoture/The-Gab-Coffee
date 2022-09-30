@@ -5,14 +5,14 @@ const menu = [
     category: "breakfast",
     price: 22.90,
     img: "./images/item-1.jpg",
-    desc: `Tomates confitados, mussarela de búfala, pesto e mix de brotos`,  },
+    desc: `Tomates confitados, mussarela de búfala, pesto e mix de brotos.`,  },
   {
     id: 2,
     title: "Carreteiro do Gab",
     category: "lunch",
     price: 37.99,
     img: "./images/carreteiro.jpg",
-    desc: `Nossa versão de um clássico. Surpreendente!`,
+    desc: `Nossa versão de um clássico. Surpreendente! O classico feito pelo meu pai, que faz o melhor carreteiro do mundo.`,
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ const menu = [
     category: "coffee",
     price: 7.00,
     img: "./images/saboroso-cafe-expresso-servido-na-xicara-com-graos-de-cafe-ao-redor-e-colher-fechar-se-fundo-escuro_1220-5749.jpg",
-    desc: `A vida só começa depois do primeiro shot de expresso`,
+    desc: `A vida só começa depois do primeiro shot de expresso.`,
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const menu = [
     category: "lunch",
     price: 42.99,
     img: "./images/funghi.jpg",
-    desc: `Esse é o favorito do Chef Gabriel. Como diria o Jacquin: "Ten cremossidad, ten sabour, ten tomperro`,
+    desc: `Esse é o favorito do Chef Gabriel. Como diria o Jacquin: "Ten cremossidad, ten sabour, ten tomperro.`,
   },
   {
     id: 9,
@@ -84,7 +84,7 @@ const menu = [
     category: "dessert",
     price: 18.90,
     img: "./images/bolo-bombom-de-uva.jpg",
-    desc: `Por essa fatia aqui, a Ana Maria passaria pelo umas cinco vezes por debaixo da mesa`,
+    desc: `Por essa fatia aqui, a Ana Maria passaria pelo umas cinco vezes por debaixo da mesa.`,
   }
 ];
 // get parent element
