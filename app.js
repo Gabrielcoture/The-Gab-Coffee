@@ -71,7 +71,7 @@ const menu = [
     desc: `250ml de café filtrado,Denso e encorpado!.`,
   },
   {
-    id: 10,
+    id: 11,
     title: "CHÁ VERDE JASMINE DRAGON PEARLS",
     category: "tea",
     price: 16.00,
@@ -79,7 +79,7 @@ const menu = [
     desc: `50ml de um Exuberante Chá Verde com brotos prateados e perfumado com Jasmim, originário da província chinesa de Fujian. Cultivado em jardins e extremamente delicado, seu nome provém da sua luxuosa forma de pérola, elaborada artesanalmente. Seco entre flores de jasmim, tem uma agradável fragrância e um sabor inconfundível. Recomendado para qualquer momento do dia.`,
   },
   {
-    id: 11,
+    id: 10,
     title: "Fatia de bolo bombom de uva ",
     category: "dessert",
     price: 18.90,
