@@ -36,7 +36,7 @@ const menu = [
     category: "lunch",
     price: 32.99,
     img: "./images/caesar.jpg",
-    desc: `tiras de frango grelhadas, mix de folhas verdes, croutons, ovo, parmesão e molho especial da casa. Uma verdadeira perdição. `,
+    desc: `Tiras de frango grelhadas, mix de folhas verdes, croutons, ovo, parmesão e molho especial da casa. Uma verdadeira perdição. `,
   },
   {
     id: 6,
@@ -68,7 +68,7 @@ const menu = [
     category: "coffee",
     price: 12.00,
     img: "./images/frenchpress.jpg",
-    desc: `250ml de café filtrado,Denso e encorpado!.`,
+    desc: `São 250ml de um café filtrado, aromático denso e encorpado.`,
   },
   {
     id: 11,
